@@ -1,5 +1,5 @@
-# Design-Wing-Task
-Repo for Design Wing tasks of Geektober Fest.
+# Design-Wing-Task 1
+Design a logo for the Design Wing of GeekHaven
 
 ## Tools you should know:
 - Adobe Photoshop
@@ -8,3 +8,4 @@ Repo for Design Wing tasks of Geektober Fest.
 
 ## Rules:
 - Originality of the Design is Encouraged.
+- Submit .png / .svg files for task 1
