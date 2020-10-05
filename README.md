@@ -3,7 +3,7 @@ Repo for Design Wing tasks of Geektober Fest.
 
 ## Tools you should know:
 - Adobe Photoshop
-- Adobe Illustrator
+- Adobe Illustrator / COREL Draw
 - Figma / Adobe XD
 
 ## Rules:
