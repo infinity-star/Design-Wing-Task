@@ -5,3 +5,6 @@ Repo for Design Wing tasks of Geektober Fest.
 - Adobe Photoshop
 - Adobe Illustrator
 - Figma / Adobe XD
+
+## Rules:
+- Originality of the Design is Encouraged.
